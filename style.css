@@ -92,7 +92,7 @@ hr{
     display: inline;
 }
 .margin{
-    margin: 1rem;
+    margin:auto;
     text-decoration: none;
     color: white;
     font-size: large;
@@ -175,7 +175,7 @@ border:2rem 2rem;
     color: white;
 }
 .social-links{
-    padding-right: 3rem;
+    padding-right: 2rem;
     text-align: center;
     font-weight: large;
     font-size: bold;
@@ -198,7 +198,6 @@ border:2rem 2rem;
 .body1{
     margin: 0px auto;
     max-width: 95%;
-    width:100%
 
 
 }
