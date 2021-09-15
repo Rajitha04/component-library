@@ -20,7 +20,7 @@ body{
 .blog-link{
     
         color:var(--primary-color);
-        width:max-content;
+        max-width: 0%;
         box-sizing:border-box;
         border:1px solid var(--primary-color);
         padding:0.5rem 1rem;
@@ -92,7 +92,7 @@ hr{
     display: inline;
 }
 .margin{
-    margin:auto;
+    margin:1rem;
     text-decoration: none;
     color: white;
     font-size: large;
@@ -160,11 +160,12 @@ border:2rem 2rem;
    color:white;
    box-sizing:border-box;
    border:1px solid var(--primary-color);
-   width:max-content;
+   max-width: 85%;
    border-radius: 2rem;
-   padding:0.5rem 2rem;
+   padding:0.5rem 1rem;
    text-decoration: none;  
    background-color: var(--primary-color);
+
 }
 .footer-header{
     font-size: x-large;
