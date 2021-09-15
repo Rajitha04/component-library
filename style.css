@@ -196,7 +196,7 @@ border:2rem 2rem;
     font-size: xxx-large;
 }
 .body1{
-    margin:auto;
-    
+    margin: 0px auto;
+    max-width: 95%;
 
 }
