@@ -61,6 +61,7 @@ body{
     display: block;
     margin: auto;
     padding-top: 2rem;
+    padding-bottom: 1rem;
 }
 .link-primary{
     text-decoration: none;
