@@ -57,7 +57,8 @@ body{
     font-size:xx-large;
 }
 .image{
-    max-width: 450px;
+    max-width:80%;
+    width:550px;
     display: block;
     margin: auto;
     padding-top: 2rem;
