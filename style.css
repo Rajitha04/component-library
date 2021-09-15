@@ -143,7 +143,18 @@ border:2rem 2rem;
 .text{
     padding-bottom: 1.5rem;
 }
-
+.para{
+    display: block;
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-bottom: 1.5rem;
+}
+.body{
+    background-color: black;
+    color:white;
+}
 .link{
    color:white;
    box-sizing:border-box;
@@ -158,10 +169,25 @@ border:2rem 2rem;
     font-size: x-large;
     font-weight: bold;
 }
-
+.git{
+    text-decoration: none;
+    color: white;
+}
 .social-links{
     padding-right: 3rem;
     text-align: center;
     font-weight: large;
     font-size: bold;
+    
+}
+.chai{
+    display: block;
+    background-color: orangered;
+    color: white;
+    text-align: center;
+    padding:1rem 1rem;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 0.5rem;
+    font-weight: bold;
+    font-size: x-large;
 }
