@@ -170,18 +170,26 @@ border:2rem 2rem;
 }
 .footer-header{
     font-size: x-large;
-    font-weight: bold;
+    font-weight: bolder;
+    
 }
 .git{
     text-decoration: none;
     color: white;
 }
 .social-links{
-    padding-right: 2rem;
     text-align: center;
-    font-weight: large;
+    
+    padding:1rem;
+box-sizing: border-box;
+margin-left:1rem;
+    font-weight: x-large;
     font-size: bold;
     
+}
+.footer ul{
+    padding-inline-start: 0px;
+
 }
 .chai{
     display: block;
